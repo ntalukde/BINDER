@@ -1,6 +1,10 @@
 # BINDER: BINary orDER Embedding
 by a nonempty list of authors
 
+## Packages to install
+
+PyTorch, random, time, click, numpy, matplotlib, math, threading
+
 ## Running
 
 The main syntax for our script is the following, which must be run from the directory containing `__main__.py`.
