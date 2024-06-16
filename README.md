@@ -1,5 +1,10 @@
 # BINDER: BINary orDER Embedding
-by a nonempty list of authors
+Code and dataset used for the following paper:
+```bash
+BINDER: Hierarchical Concept Representation through Order Embedding of Binary Vectors.
+Croix Gyurek, Niloy Talukder and Mohammad Al Hasan.
+Knowledge Discovery and Data Mining, SIGKDD, 2024.
+```
 
 ## Packages to install
 
